@@ -1,7 +1,7 @@
 # Quora-Question-Pairs
 * Resources
 [[https://www.kaggle.com/c/quora-question-pairs/data][data]] \\
-[[https://www.youtube.com/watch?v%3DmhHfnhh-pB4][Generaly review, Liang's talk]]\\
+[[https://www.youtube.com/watch?v%3DmhHfnhh-pB4][Generaly review, Liang's talk]] \\
 [[https://arxiv.org/abs/1606.03622][Data Recombination for Neural Semantic Parsing]] 
 * Ideas
 Semantic Parsing
