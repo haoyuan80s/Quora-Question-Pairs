@@ -1,7 +1,26 @@
 # Quora-Question-Pairs
+#+TITLE: README
+#+DATE: <2017-04-14 Fri>
+#+AUTHOR: Hao Yuan
+#+EMAIL: haoyuan@0587372674.wireless.umich.net
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 25.1.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+
 * Resources
 [[https://www.kaggle.com/c/quora-question-pairs/data][data]] \\
-[[https://www.youtube.com/watch?v%3DmhHfnhh-pB4][Generaly review, Liang's talk]] \\
-[[https://arxiv.org/abs/1606.03622][Data Recombination for Neural Semantic Parsing]] 
+[[https://simons.berkeley.edu/talks/percy-liang-01-27-2017-1][Generaly review, Liang's talk]] \\
+[[https://arxiv.org/abs/1606.03622][Data Recombination for Neural Semantic Parsing]] \\
+[[http://web.stanford.edu/class/cs224n/][Natural Language Processing with Deep Learning]] \\
 * Ideas
 Semantic Parsing
+* Progressing
+Watching NLP material \\
+Doding a native method
